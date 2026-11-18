@@ -121,7 +121,7 @@ You can't run an agent with real money in a black box.
 
 ### Market (price, derivatives, microstructure)
 - Exchange-native REST + WebSocket (or a unified API like [Melaya](./exchanges.md) / [CCXT](https://github.com/ccxt/ccxt)).
-- - **[Siebly SDKs](https://siebly.io/sdk)**: MIT-licensed JavaScript/TypeScript SDKs for exchange-native REST, WebSocket and WebSocket API access on Binance, Bybit, OKX, Gate, Bitget, KuCoin, Coinbase, Kraken and Hyperliquid ([docs](https://sieblyio.github.io/docs/), [agent skill](https://github.com/sieblyio/agent-skills)).
+- **[Siebly SDKs](https://siebly.io/sdk)**: MIT-licensed JavaScript/TypeScript SDKs for exchange-native REST, WebSocket and WebSocket API access on Binance, Bybit, OKX, Gate, Bitget, KuCoin, Coinbase, Kraken and Hyperliquid ([docs](https://sieblyio.github.io/docs/), [agent skill](https://github.com/sieblyio/agent-skills)).
 - **[Coinglass](https://www.coinglass.com)** — derivatives metrics: funding, open interest, liquidations, long/short ratio.
 - **[Kaiko](https://www.kaiko.com)** / **[Amberdata](https://www.amberdata.io)** — institutional market + derivatives data.
 
